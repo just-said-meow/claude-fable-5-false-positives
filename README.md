@@ -139,6 +139,8 @@ Stops per thousand sentences spoken by the traveler while served by each aircraf
 
 A traveler flying Fable 5 is inspected, on average, once every 57 sentences.
 
+Note: this table decides "stopped after the traveler spoke" from a mechanical field in the log, and its Stops column adds up to 193. The 192 in Section I is the figure after the three auditors read each case. The one stop in between is G0270: it came about 12 minutes after the traveler last spoke, when a message from another window arrived, and all three auditors attributed it to that message. Counted that way, Fable 5 has 156 stops, or 17.5 per thousand sentences.
+
 ## V. Follow-Up Service
 
 This Checkpoint believes in following up. In the hour after a stop, this Checkpoint returns to the same traveler and stops them again at **4.75 times** the usual rate (14.68 versus 3.09 per thousand requests). After any given stop, the same traveler is stopped again within the hour **25.3%** of the time. If the previous stop was a power cut to the whole house, **28.6%**.
