@@ -40,6 +40,7 @@ Add `--json` to get JSON output instead.
 ## Limitations
 
 - It only recognizes the log format from before November 2026. After an app update the markers may look different, and it will no longer recognize them.
+- If you use your own scripts to send messages from one conversation into another, those messages look the same in the log as something you typed. The tool counts them as cuts that followed your typing, so those counts will run high.
 - Comments are welcome, but replies and updates are not guaranteed.
 
 ---
